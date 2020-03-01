@@ -1,0 +1,41 @@
+body{
+    padding: 100px;
+}
+
+
+
+.input-item{
+   margin-top: 50px;
+   border-radius: 10px;
+  box-shadow: 5px 5px 10px grey;
+  padding: 40px;
+}
+#transectionArea{
+    display: none;
+}
+.account-section{
+
+      margin: 40px 20px;
+      border-radius: 20px;
+      padding: 20px;
+      color: white;
+    
+}
+.balance{
+    background: rgb(241, 200, 13);
+}
+.widraw{
+    background: rgb(60, 185, 2);
+}
+.deposite{
+    background: rgb(103, 4, 231);
+    
+}
+.last-section{
+  
+    box-shadow: 5px 5px 10px gray;
+    margin: 40px 10px;
+    border-radius: 20px;
+    padding: 40px;
+    color: black;
+}
